@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Game">
+      <UniqueIdentifier>{3420b79c-8c39-49e1-8189-318aabf9b8ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Header Files">
+      <UniqueIdentifier>{da068539-5321-4bd8-b948-b352fa90490e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Source Files">
+      <UniqueIdentifier>{17c53f64-3cc9-4153-908b-f47974ef6120}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Big">
+      <UniqueIdentifier>{e3e42b33-bc39-4844-9249-6e294ea7c747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Big\Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Big\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Big\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BluecircleEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BluediamondEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellSpacePartition.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityFunctionTemplates.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FanEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameListener.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GreensquareEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IndigotriangleEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InvertedAABBox2D.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ManipulatingEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OrangetriangleEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Purplesquare1Entity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Purplesquare2Entity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedcircleEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedcloneEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SightEntity.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Game\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Big.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigBoundingGeometry.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigOrigin.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigParticalSystem.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigScene.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigSceneEntity.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigSceneManager.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigSceneNode.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigTexture.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigWindowsListener.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BigWindowsUtility.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Big\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Big\Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BluecircleEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BluediamondEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FanEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameListener.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMain.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GreensquareEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IndigotriangleEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ManipulatingEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OrangetriangleEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Purplesquare1Entity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Purplesquare2Entity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RedcircleEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RedcloneEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SightEntity.cpp">
+      <Filter>Game\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigBoundingGeometry.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigOrigin.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigParticalSystem.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigScene.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigSceneEntity.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigSceneManager.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigSceneNode.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigTexture.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigWindowsUtility.cpp">
+      <Filter>Big\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Big.rc">
+      <Filter>Big\Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon_big.ico">
+      <Filter>Big\Resource Files</Filter>
+    </None>
+    <None Include="icon_small.ico">
+      <Filter>Big\Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
